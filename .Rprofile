@@ -1,3 +1,2 @@
 source("renv/activate.R")
-options("repos" = c(
-        "CRAN" = "https://rspm.roche.com/CRAN/latest"))
+options(repos = c(REPO_NAME = "https://rspm.roche.com/Validated-4.1/latest"))
